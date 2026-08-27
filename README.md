@@ -12,14 +12,13 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MrSukaQue&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=MrSukaQue&icon=4&color=0)](https://visitcount.itsvg.in)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31huk4ty6d6kdegxh5cdrrj4gkky&amp;theme=dark" />
   <source media="(prefers-color-scheme: light)" srcset="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31huk4ty6d6kdegxh5cdrrj4gkky&amp;theme=light" />
   <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31huk4ty6d6kdegxh5cdrrj4gkky&amp;theme=dark" alt="Spotify recently played" width="400" />
-</picture>
+</picture>s
+
+---
+[![](https://komarev.com/ghpvc/?username=MrSukaQue&icon=4&color=0)](https://visitcount.itsvg.in)
+
+
