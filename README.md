@@ -1,74 +1,107 @@
-<h2 data-importer="text" align="left">Hi 👋! My name is Mikail and I'm a Student, from Indonesia</h2>
+<div align="center">
 
-###
+Hi, I'm Mikail 👋
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/MrsukaQue/MrSukaQue/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula" />
-  <img src="https://raw.githubusercontent.com/MrsukaQue/MrSukaQue/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" />
+Student from Indonesia exploring software, automation, and IoT
+
+
+
+
+
+
+
+
 </div>
 
-###
+<img align="right" height="150" src="https://i.imgur.com/Gy3s8XQ.gif" alt="Animated character" />
 
-<img data-importer="image" align="right" height="150" src="https://i.imgur.com/Gy3s8XQ.gif"  />
+About Me
 
-###
+const mikail = {
+  school: "SMA Al Azhar Syifa Budi Parahyangan",
+  location: "West Java, Indonesia",
+  learning: ["JavaScript", "Node.js", "IoT"],
+  interests: ["Software Engineering", "AI", "Automation"],
+  goal: "Turn unusual ideas into useful projects"
+};
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" alt="google logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="30" alt="facebook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="30" alt="adobeillustrator logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/digitalocean/0080FF" height="30" alt="digitalocean logo"  />
+My projects usually begin with “bro, what if...” and continue with several console logs and questionable optimism.
+
+Currently Working On
+
+Learning JavaScript and backend development with Node.js
+
+Experimenting with automation and WhatsApp bots
+
+Developing an ESP8266 based flood monitoring system
+
+Exploring AI, cloud deployment, and software engineering
+
+Languages and Tools
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="34" alt="JavaScript" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="34" alt="HTML5" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="34" alt="CSS3" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="34" alt="Python" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="34" alt="C++" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="34" alt="Node.js" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="34" alt="Arduino" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="34" alt="VS Code" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="34" alt="Linux" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=aws" height="34" alt="AWS" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/digitalocean/0080FF" height="34" alt="DigitalOcean" />
 </div>
 
-###
+<br clear="both" />
 
-<div data-importer="socials" align="left">
-  <a href="https://www.instagram.com/mikaildz__/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <a href="azuragglok@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
+GitHub Overview
+
+<div align="center">
+  <img height="170" src="https://raw.githubusercontent.com/MrsukaQue/MrSukaQue/stats-output/stats.svg" alt="Mikail's GitHub statistics" />
+  <img height="170" src="https://raw.githubusercontent.com/MrsukaQue/MrSukaQue/languages-output/languages.svg" alt="Mikail's most used languages" />
 </div>
 
-###
+Contribution Snake
 
-<br clear="both">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MrsukaQue/MrSukaQue/snake-output/snake.svg" alt="GitHub contribution snake animation" />
+</div>
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/MrsukaQue/MrSukaQue/snake-output/snake.svg" alt="Snake animation" />
+Music Corner 🎧
 
-###
+<div align="center">
 
-<div data-importer="music" align="center">
+
+
+Current favorite: Merry Christmas, Please Don't Call by Bleachers
+
 <a href="https://open.spotify.com/user/31huk4ty6d6kdegxh5cdrrj4gkky">
-  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31huk4ty6d6kdegxh5cdrrj4gkky" alt="Spotify recently played" width="400" />
+  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31huk4ty6d6kdegxh5cdrrj4gkky" alt="Spotify recently played" width="420" />
 </a>
+
 </div>
 
-###
+Beyond the Code
+
+🎮 Strategy games and War Thunder
+⚽ Bayern Munich and Indonesian football
+🔭 Astronomy and everything far beyond Earth
+📚 History, science, and military technology
+💡 Projects that connect software with real hardware
+
+<div align="center">
+
+
+
+</div>
