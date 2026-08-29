@@ -12,11 +12,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31huk4ty6d6kdegxh5cdrrj4gkky&amp;theme=dark&amp;width=700&amp;duration=1&amp;album=1&amp;profile=off&amp;footer=wave" />
-  <source media="(prefers-color-scheme: light)" srcset="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31huk4ty6d6kdegxh5cdrrj4gkky&amp;theme=light&amp;width=700&amp;duration=1&amp;album=1&amp;profile=off&amp;footer=wave" />
-  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31huk4ty6d6kdegxh5cdrrj4gkky&amp;theme=dark&amp;width=700&amp;duration=1&amp;album=1&amp;profile=off&amp;footer=wave" alt="Spotify recently played" width="700" />
-</picture>
+
 
 ---
 [![](https://komarev.com/ghpvc/?username=MrSukaQue&icon=4&color=0)](https://visitcount.itsvg.in)
